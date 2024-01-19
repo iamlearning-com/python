@@ -29,7 +29,7 @@ Khi có càng nhiều dữ liệu ta không thể trình bày hết 100 hay 1000
 
 - Bảng tần suất chỉ ra giá trị của một biến phân bố theo quan sát.
 
- - Công thức tính tỷ lệ: $$Tỷ lệ =  \frac{ tần suất } { tổng } * 100$$
+ - Công thức tính tỷ lệ:   $Tỷ lệ =  \frac{ tần suất } { tổng } * 100$
 
 
 | Màu tóc | Tần suất | Tỷ lệ (%) |
